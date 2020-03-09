@@ -1,0 +1,2 @@
+1. Read DNA seq and convert it into RNA
+2. Calculate the number of Amino Acids in the RNA seq
