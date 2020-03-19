@@ -1,2 +1,5 @@
-1. Read DNA seq and convert it into RNA
-2. Calculate the number of Amino Acids in the RNA seq
+1.cg_content: Get the cg_content from DNA seq.
+2.DNA_to_RNA: Convert DNA seq into RNA.
+3.Amino_Acid_num: Get the number of amino acid basis in DNA seq.
+4.Function_Test: Read the DNA Seq and call the functions to test them.
+5.DNA_seq.xlsx: DNA seq excel sheet.
